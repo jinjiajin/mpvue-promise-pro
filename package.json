@@ -1,6 +1,6 @@
 {
   "name": "mpvue-promise-pro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "强大的、优雅的小程序 Promise 库,兼容微信支付宝小程序",
   "main": "mpvuePromise.min.js",
   "scripts": {
