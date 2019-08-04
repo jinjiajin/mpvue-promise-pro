@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jinjiajin/mpvue-promise-pro"
+    "url": "git+https://github.com/jinjiajin/mpvue-promise-pro.git"
   },
   "keywords": [
     "promise",
@@ -18,10 +18,10 @@
     "then",
     "catch",
     "finally",
-    "小程序",
-    "weapp",
-    "miniapp",
-    "weixin"
+    "微信小程序",
+    "weixin",
+    "支付宝小程序",
+    "my"
   ],
   "author": "youngjuning",
   "license": "MIT",
